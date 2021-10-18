@@ -1,6 +1,7 @@
 n=int(input())
 i=1
 while i<=n:
+    #TODO
     j=1
     while j<=n:
         if j==i:
