@@ -2,6 +2,7 @@ n=int(input())
 i=1
 while i<=n:
     #TODO
+    #print data
     j=1
     while j<=n:
         if j==i:
